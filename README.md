@@ -21,7 +21,7 @@ This required about 7.5 hours of training time
 
 ## Conclusion 
 
-The model achieved maximum accuracy of 95.72% on the clean signal dataset. The model achieved maximum accuracy of 95.72% on the clean signal dataset: [Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio#:~:text=Signal-to-noise%20ratio%20(,power%2C%20often%20expressed%20in%20decibels.)) > 8 dB.
+The model achieved maximum accuracy of 95.72% on the clean signal dataset: [Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio#:~:text=Signal-to-noise%20ratio%20(,power%2C%20often%20expressed%20in%20decibels.)) > 8 dB.
 
 *Note that the maximum classification accuracy of 62% if you want to test the model to its absolute limits on a mix of clean signals and signals with very high interference. Some of the signals have so much noise that they are virtually unrecognizable.*
 
